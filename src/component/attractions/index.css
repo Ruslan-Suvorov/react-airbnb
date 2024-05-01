@@ -1,0 +1,11 @@
+.attractions {
+  gap: 20px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #6c757d;
+}
