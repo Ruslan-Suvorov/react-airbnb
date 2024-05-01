@@ -1,3 +1,4 @@
+import React from "react";
 import "./index.css";
 import { Box } from "../box";
 import { Heading } from "../heading";

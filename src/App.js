@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
 import { Page } from "./component/page";
 import { Header } from "./component/header";

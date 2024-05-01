@@ -1,3 +1,4 @@
+import React from "react";
 import "./index.css";
 
 export const Title = ({ title, rating, review, city, country, superhost }) => {
